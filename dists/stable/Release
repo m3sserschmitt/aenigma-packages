@@ -1,0 +1,40 @@
+Architectures: amd64 arm64 all
+Codename: stable
+Components: main
+Date: Wed, 09 Sep 2026 13:15:40 +0000
+Description: Repository containing packages for Aenigma - Federated messaging system
+Label: Aenigma
+Origin: Aenigma
+Suite: stable
+MD5Sum:
+ 514378a565ba2347eaea96d9a824baaa              233 Release
+ 796d7a270c434e33f579b322a27c3555              556 main/binary-all/Packages
+ acce3884dc274c633689c1bf3e222d6f              393 main/binary-all/Packages.gz
+ d72b475f9f10ec43e638a5e5f4c6f400             1176 main/binary-amd64/Packages
+ 283aaa7c9450cbf42d953c1985a9df4d              646 main/binary-amd64/Packages.gz
+ dc6967b192a9c1c7ff2cec025d3f0c44             1176 main/binary-arm64/Packages
+ 327ce843380cc4c234b7ea1b695d8ff8              643 main/binary-arm64/Packages.gz
+SHA1:
+ d2a922787f84be65370863d65c22d4a638ed2858              233 Release
+ f31c2a65fb36e0325602d502156a44b172efe1e4              556 main/binary-all/Packages
+ 568c6c5d13573abd86c1717541b4a8df71df48ea              393 main/binary-all/Packages.gz
+ 57ab68fcb10825484ab54dc794d854849e486cf5             1176 main/binary-amd64/Packages
+ 34d702c786a3da365f5aa2190c918ff2ab6bbf23              646 main/binary-amd64/Packages.gz
+ b05eb3596f7e58a793a52bb2d7848417aef1b4cf             1176 main/binary-arm64/Packages
+ 5b2cc6c02df6bd54b318a242bb63a5df899cdb5b              643 main/binary-arm64/Packages.gz
+SHA256:
+ 9da176f556b9f0f7a2e35238a7a62fba38d571919b3efbe7b7e0b81cac0fd990              233 Release
+ 460f0f8455e6617db4a8bd466d566577e3537972a96bbbe61bb29c1487005417              556 main/binary-all/Packages
+ 6ab7cae8a1c54109c1577e7b7d15dfea286c3198b9c530d4be3e572601ab2c0a              393 main/binary-all/Packages.gz
+ 1e635c4af18faa314efe82b3fe18a7b3658081a984c12d393c4f6e8228e4fb66             1176 main/binary-amd64/Packages
+ b6cbe8449527221622e27f1e397778bf582e67e05d013738c354dcbe31f9cd52              646 main/binary-amd64/Packages.gz
+ 1f887317044e18b1dd1c64b1d0fe74cf588bb7ff7cf3f4114baf9d16fe48e5f8             1176 main/binary-arm64/Packages
+ 6aa931f8ad959f44e5ba9b63db0ccb2193900a52b366ac1d2d5485661690b092              643 main/binary-arm64/Packages.gz
+SHA512:
+ 58ae9e1d3d1a5b7eee67c9029ceb4c17b4a57217198b280a721873769d2912cedd716c70c25e453f8331914c7a6be729bd62294d5e25f11e7dc55b494a70704c              233 Release
+ 155b4ace3c6f85ba23568ac61247fe9796e71de531a1a77775cb4a5d075a6439e34cf6e12b5e6987052dd7e38e9cf59a71ebff8a61275d03f865164b30d7a30d              556 main/binary-all/Packages
+ 76e19ce826e9486aea90c06a71977bcca4672245fad6e1176c8d919b33b6a18c0c711fd06534dd753d1aaf5fe18d3f081c09112d2500e301294026f60c7e221e              393 main/binary-all/Packages.gz
+ 76d45a0ede89273ccfb96062d34005e4e6eec90185ab6a4c70fe1682a91bb2cc49f8b90f4f328347ec63f055d6e8f873abac34de2708932985af1f2757a51029             1176 main/binary-amd64/Packages
+ 111f30d078baa5ac1558c103c1f069fb1446c81444078f95302b615845395f57f6ad0b8446b64fb05cca2ffe14fdcf1f43efa58d1922c3e8da2ff22ddb7e44a8              646 main/binary-amd64/Packages.gz
+ a2eed2ce180b2149cde51985a74797ccb8d24dfbf1b9a3139dd60ad206e09b08952754a3f6da49d3b5b1b7bd5eba2401102d297c7887be92337b957a008c0f51             1176 main/binary-arm64/Packages
+ 93b8fb53a811beb8fa4507ce74261df39a1cfc0971d967d416d12248730485b3f1d1ecbf27e597da134bd22f36d2755b17ad1b9d3f3b09e6e71e0302dd0d1792              643 main/binary-arm64/Packages.gz

@@ -1,0 +1,2 @@
+# GPG private key — never commit this
+*.private.key

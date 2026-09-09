@@ -1,0 +1,17 @@
+Package: aenigma-image-utils
+Version: 1.0.0
+Architecture: all
+Maintainer: Romulus-Emanuel Ruja <romulus.ruja@aenigma.ro>
+Installed-Size: 23
+Depends: aenigma (>= 5.0.0)
+Filename: pool/main/all/aenigma-image-utils_1.0.0_all.deb
+Size: 3516
+MD5sum: d55b25d96b228e7144ae6e9981f0370d
+SHA1: 07e376fba29c6abab3950fb6b31f1c9b0f81fa15
+SHA256: 3af242ce25e022564fb7f858ec59d6ab54593d0937d0b027802985cf9fb35364
+Section: utils
+Priority: optional
+Description: Additional scripts and services
+ Contains additional scripts and services required by Aenigma Debian
+ images.
+

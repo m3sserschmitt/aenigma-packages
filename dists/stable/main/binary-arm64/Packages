@@ -1,0 +1,34 @@
+Package: aenigma
+Version: 5.0.0
+Architecture: arm64
+Maintainer: Romulus-Emanuel Ruja <romulus.ruja@aenigma.ro>
+Installed-Size: 166137
+Depends: libc6, openssl (>= 3.0.0), jq (>= 1.6), basez (>= 1.6.2)
+Filename: pool/main/arm64/aenigma_5.0.0_arm64.deb
+Size: 42023844
+MD5sum: 7ad7bbb6f0d31122b261c808fbbeb32f
+SHA1: 92898cf9ecef45689fb0f7f7c648f68cf69af072
+SHA256: 76eaffaf7f1e4cde394b877095eb2349a2f449dbf15ad962cff0e046df208154
+Section: utils
+Priority: optional
+Description: Federated messaging system
+ Aenigma is a federated messaging system providing onion-service
+ and VPN-based transport for self-hosted deployments.
+
+Package: aenigma-image-utils
+Version: 1.0.0
+Architecture: all
+Maintainer: Romulus-Emanuel Ruja <romulus.ruja@aenigma.ro>
+Installed-Size: 23
+Depends: aenigma (>= 5.0.0)
+Filename: pool/main/all/aenigma-image-utils_1.0.0_all.deb
+Size: 3516
+MD5sum: d55b25d96b228e7144ae6e9981f0370d
+SHA1: 07e376fba29c6abab3950fb6b31f1c9b0f81fa15
+SHA256: 3af242ce25e022564fb7f858ec59d6ab54593d0937d0b027802985cf9fb35364
+Section: utils
+Priority: optional
+Description: Additional scripts and services
+ Contains additional scripts and services required by Aenigma Debian
+ images.
+
