@@ -1,14 +1,14 @@
 Package: aenigma
-Version: 5.0.0
+Version: 5.1.0
 Architecture: arm64
 Maintainer: Romulus-Emanuel Ruja <romulus.ruja@aenigma.ro>
-Installed-Size: 166137
-Depends: libc6, openssl (>= 3.0.0), jq (>= 1.6), basez (>= 1.6.2)
-Filename: pool/main/arm64/aenigma_5.0.0_arm64.deb
-Size: 42023844
-MD5sum: 7ad7bbb6f0d31122b261c808fbbeb32f
-SHA1: 92898cf9ecef45689fb0f7f7c648f68cf69af072
-SHA256: 76eaffaf7f1e4cde394b877095eb2349a2f449dbf15ad962cff0e046df208154
+Installed-Size: 162946
+Depends: libc6, openssl (>= 3.5.0), libkeyutils1 (>= 1.5.9), jq (>= 1.6), basez (>= 1.6.2)
+Filename: pool/main/arm64/aenigma_5.1.0_arm64.deb
+Size: 41092484
+MD5sum: 10c2dec8df9019e83a8c823d6e238d83
+SHA1: 9c3b87ca0bd29dc6ab7ea1f0ffea3a9745fcb28e
+SHA256: 11766206a459d5f3da2f5388640e82ce846669d41ddc641cfe502661091687ac
 Section: utils
 Priority: optional
 Description: Federated messaging system
